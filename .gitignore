@@ -1,1 +1,6 @@
-/Lib/
+# Игнорируем виртуальное окружение
+Battle-of-Warships/Lib/
+Battle-of-Warships/Scripts/
+Battle-of-Warships/__pycache__/
+Battle-of-Warships/Include/
+Battle-of-Warships/pyvenv.cfg
