@@ -9,9 +9,6 @@ class MainWindow(QMainWindow):
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
 
-class ship():
-    def __init__(self):
-        pass
 
 
 if __name__ == "__main__":
